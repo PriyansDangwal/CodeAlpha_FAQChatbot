@@ -30,11 +30,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Screenshot
-
-<img width="1307" height="892" alt="image" src="https://github.com/user-attachments/assets/474e5d3d-7bfc-4c73-8dc3-ded3de0aa05a" />
-
-
 ## Author
 
-Piyush Kumar
+Priyans Dangwal
